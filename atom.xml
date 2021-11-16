@@ -6,7 +6,7 @@
   <link href="http://hughzh.github.io/atom.xml" rel="self"/>
   
   <link href="http://hughzh.github.io/"/>
-  <updated>2021-11-15T15:55:01.186Z</updated>
+  <updated>2021-11-16T08:27:56.434Z</updated>
   <id>http://hughzh.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的小破站介绍</title>
+    <link href="http://hughzh.github.io/2021/11/16/%E6%88%91%E7%9A%84%E5%B0%8F%E7%A0%B4%E7%AB%99%E4%BB%8B%E7%BB%8D/"/>
+    <id>http://hughzh.github.io/2021/11/16/%E6%88%91%E7%9A%84%E5%B0%8F%E7%A0%B4%E7%AB%99%E4%BB%8B%E7%BB%8D/</id>
+    <published>2021-11-16T08:06:54.000Z</published>
+    <updated>2021-11-16T08:27:56.434Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js"></script><p>本篇旨在介绍一下我的博客网站。</p><h1 id="基础介绍："><a href="#基础介绍：" class="headerlink" title="基础介绍："></a>基础介绍：</h1><p>这个博客网站，是xiangyang23帮忙用hexo构建的静态网站，其服务器用的是Github提供的仓库，所需费用完全免费。主题采用的是云游君的主题。</p><p>在这个网站，我会分享一些自己写的小诗或者有感而发的文章甚至一些学习笔记之类的都会发到这上面。</p><h1 id="界面功能："><a href="#界面功能：" class="headerlink" title="界面功能："></a>界面功能：</h1><p>点击左上角菜单栏出现菜单，上面有头像和简单的介绍。头像下面的一栏分别是返回主页、归档界面、分类界面、标签界面、主题配置说明（开发者选项）。</p><p>再往下一栏是rss订阅以及邮箱按钮。我还提供了友情链接，进入会提供我的小伙伴们的博客链接以及其他链接。<br>最下方的按钮就是界面模式按钮，提供更换夜间模式和日间模式的转换。</p><p>本站提供rss订阅。如果你有能够提供rss阅读的阅读器，可以点击本站的rss订阅按钮，之后复制地址栏粘贴到rss阅读器的订阅添加处，即可完成订阅。</p><p>在文章底部附有评论区，提供游客评论。评论区上的昵称、邮箱、网站可以选填也可不填。不填则提供随机昵称。</p><h1 id="准备开发的功能："><a href="#准备开发的功能：" class="headerlink" title="准备开发的功能："></a>准备开发的功能：</h1><p>在首页放一个播放器，放一些喜欢的歌，或是放在在文章中，用来当作文章的bgm。<br>做一个相册功能，放一点照片。<br>主题作者曾推荐过一个girls功能,上面放的是一些自己喜欢的二次元女性角色，我目前不知道放什么加上上次测试失败，以后再加吧。</p><blockquote><p>最后如果有hexo方面的大佬，欢迎指教。</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css&quot;&gt;&lt;scrip</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>江城子·青木姑娘</title>
