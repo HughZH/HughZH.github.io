@@ -7,7 +7,7 @@ export default defineSiteConfig({
   title: "未明的小破站",
   author: {
     name: '未明hugh',
-    avatar: "/public/headpicture_loughface.png",	//头像链接
+    avatar: "https://hughes-pic-1312042851.cos.ap-nanjing.myqcloud.com/headpicture_loughface.png?q-sign-algorithm=sha1&q-ak=AKIDlqXA8_tmIqj7MNj5fLCx1w0rcuTc9wOW9bhU2TK9PmcszRbVj8jHN55aSWvnGO4_&q-sign-time=1696766822;1696770422&q-key-time=1696766822;1696770422&q-header-list=host&q-url-param-list=ci-process&q-signature=dd4858ab86728c5f973d826ec69bcd7c55af4e2f&x-cos-security-token=beUXadn2tphyJCdesyxsS3Y6cDkYPGiacd56564bca7b2528e6f566a549718c86NbWnVhbs77n0U9OOSs1XKpsqLquI0w3YzS-8kgbMvx34M-Pxfcd24tzDNMJGsM1jj-b-lfpGZAX9OPFwCa4caQnKsxkEmutUxsQz2N7--3lohgfiUeT-4TxLDkWv69kY1-MF9q82L1tH_LgjWYEbQV3mgDJApcWGHSaaup5IxEzYLwVIRR3yOOfEHMM7nLBh&ci-process=originImage",	//头像链接
     status: {
       emoji: '💛'	// 头像旁边的emoji
     },
