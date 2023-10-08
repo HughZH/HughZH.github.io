@@ -17,7 +17,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: '云游君的小站',
+      title: '跌入云端',
       cloud: {
         enable: true,
       },
@@ -30,20 +30,20 @@ export default defineValaxyConfig<UserThemeConfig>({
         icon: 'i-ri-genderless-line',
         color: 'dodgerblue',
       },
-      {
+      /*{
         name: '喜欢的女孩子',
         url: '/girls/',
         icon: 'i-ri-women-line',
         color: 'hotpink',
-      },
+      },*/
     ],
 
     footer: {
-      since: 2016,
-      beian: {
+      since: 2023,
+      /*beian: {
         enable: true,
         icp: '苏ICP备17038157号',
-      },
+      },*/
     },
   },
 
