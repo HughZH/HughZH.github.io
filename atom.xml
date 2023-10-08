@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://valaxy.site/</id>
+    <title>未明的小破站</title>
+    <updated>2023-10-08T12:29:17.321Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>未明hugh</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://valaxy.site/"/>
+    <link rel="self" href="https://valaxy.site/feed.atom"/>
+    <logo>https://hughes-pic-1312042851.cos.ap-nanjing.myqcloud.com/headpicture_loughface.png?q-sign-algorithm=sha1&amp;q-ak=AKIDlqXA8_tmIqj7MNj5fLCx1w0rcuTc9wOW9bhU2TK9PmcszRbVj8jHN55aSWvnGO4_&amp;q-sign-time=1696766822;1696770422&amp;q-key-time=1696766822;1696770422&amp;q-header-list=host&amp;q-url-param-list=ci-process&amp;q-signature=dd4858ab86728c5f973d826ec69bcd7c55af4e2f&amp;x-cos-security-token=beUXadn2tphyJCdesyxsS3Y6cDkYPGiacd56564bca7b2528e6f566a549718c86NbWnVhbs77n0U9OOSs1XKpsqLquI0w3YzS-8kgbMvx34M-Pxfcd24tzDNMJGsM1jj-b-lfpGZAX9OPFwCa4caQnKsxkEmutUxsQz2N7--3lohgfiUeT-4TxLDkWv69kY1-MF9q82L1tH_LgjWYEbQV3mgDJApcWGHSaaup5IxEzYLwVIRR3yOOfEHMM7nLBh&amp;ci-process=originImage</logo>
+    <icon>https://valaxy.site/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2023 © 未明hugh</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
+        <id>https://valaxy.site/posts/hello-valaxy</id>
+        <link href="https://valaxy.site/posts/hello-valaxy"/>
+        <updated>2022-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+]]></content>
+        <author>
+            <name>未明hugh</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2022-04-01T00:00:00.000Z</published>
+    </entry>
+</feed>

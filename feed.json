@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "未明的小破站",
+    "home_page_url": "https://valaxy.site/",
+    "feed_url": "https://valaxy.site/feed.json",
+    "icon": "https://hughes-pic-1312042851.cos.ap-nanjing.myqcloud.com/headpicture_loughface.png?q-sign-algorithm=sha1&q-ak=AKIDlqXA8_tmIqj7MNj5fLCx1w0rcuTc9wOW9bhU2TK9PmcszRbVj8jHN55aSWvnGO4_&q-sign-time=1696766822;1696770422&q-key-time=1696766822;1696770422&q-header-list=host&q-url-param-list=ci-process&q-signature=dd4858ab86728c5f973d826ec69bcd7c55af4e2f&x-cos-security-token=beUXadn2tphyJCdesyxsS3Y6cDkYPGiacd56564bca7b2528e6f566a549718c86NbWnVhbs77n0U9OOSs1XKpsqLquI0w3YzS-8kgbMvx34M-Pxfcd24tzDNMJGsM1jj-b-lfpGZAX9OPFwCa4caQnKsxkEmutUxsQz2N7--3lohgfiUeT-4TxLDkWv69kY1-MF9q82L1tH_LgjWYEbQV3mgDJApcWGHSaaup5IxEzYLwVIRR3yOOfEHMM7nLBh&ci-process=originImage",
+    "author": {
+        "name": "未明hugh",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n",
+            "url": "https://valaxy.site/posts/hello-valaxy",
+            "title": "Hello, Valaxy!",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "未明hugh",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

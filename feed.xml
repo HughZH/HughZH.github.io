@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>未明的小破站</title>
+        <link>https://valaxy.site/</link>
+        <description></description>
+        <lastBuildDate>Sun, 08 Oct 2023 12:29:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>未明的小破站</title>
+            <url>https://hughes-pic-1312042851.cos.ap-nanjing.myqcloud.com/headpicture_loughface.png?q-sign-algorithm=sha1&amp;q-ak=AKIDlqXA8_tmIqj7MNj5fLCx1w0rcuTc9wOW9bhU2TK9PmcszRbVj8jHN55aSWvnGO4_&amp;q-sign-time=1696766822;1696770422&amp;q-key-time=1696766822;1696770422&amp;q-header-list=host&amp;q-url-param-list=ci-process&amp;q-signature=dd4858ab86728c5f973d826ec69bcd7c55af4e2f&amp;x-cos-security-token=beUXadn2tphyJCdesyxsS3Y6cDkYPGiacd56564bca7b2528e6f566a549718c86NbWnVhbs77n0U9OOSs1XKpsqLquI0w3YzS-8kgbMvx34M-Pxfcd24tzDNMJGsM1jj-b-lfpGZAX9OPFwCa4caQnKsxkEmutUxsQz2N7--3lohgfiUeT-4TxLDkWv69kY1-MF9q82L1tH_LgjWYEbQV3mgDJApcWGHSaaup5IxEzYLwVIRR3yOOfEHMM7nLBh&amp;ci-process=originImage</url>
+            <link>https://valaxy.site/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2023 © 未明hugh</copyright>
+        <atom:link href="https://valaxy.site/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, Valaxy!]]></title>
+            <link>https://valaxy.site/posts/hello-valaxy</link>
+            <guid>https://valaxy.site/posts/hello-valaxy</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+]]></content:encoded>
+            <author>i@valaxy.site (未明hugh)</author>
+        </item>
+    </channel>
+</rss>
